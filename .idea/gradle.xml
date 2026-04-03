@@ -13,6 +13,12 @@
             <option value="$PROJECT_DIR$/mod2" />
             <option value="$PROJECT_DIR$/mod2poo" />
             <option value="$PROJECT_DIR$/mod3demo2" />
+            <option value="$PROJECT_DIR$/mod4recomposition" />
+            <option value="$PROJECT_DIR$/mod4viewmodel" />
+            <option value="$PROJECT_DIR$/mod5intents" />
+            <option value="$PROJECT_DIR$/mod5navigation" />
+            <option value="$PROJECT_DIR$/mod5permissions" />
+            <option value="$PROJECT_DIR$/mod5test" />
           </set>
         </option>
       </GradleProjectSettings>
