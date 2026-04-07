@@ -16,7 +16,7 @@ fun HomePage(modifier: Modifier = Modifier, onTargetClick : ()->Unit) {
     Scaffold(
         floatingActionButton = {
             FloatingActionButton({}) {
-                Icon(Icons.Default.Add,contentDescription = "Add")}
+                Icon(Icons.Filled.Add,contentDescription = "Add")}
         }){ innerPadding->
         Button(onClick = {
             onTargetClick()

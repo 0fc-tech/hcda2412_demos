@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/mod5navigation" />
             <option value="$PROJECT_DIR$/mod5permissions" />
             <option value="$PROJECT_DIR$/mod5test" />
+            <option value="$PROJECT_DIR$/mod6datastore" />
           </set>
         </option>
       </GradleProjectSettings>
