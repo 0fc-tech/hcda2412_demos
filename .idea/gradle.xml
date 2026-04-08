@@ -20,6 +20,8 @@
             <option value="$PROJECT_DIR$/mod5permissions" />
             <option value="$PROJECT_DIR$/mod5test" />
             <option value="$PROJECT_DIR$/mod6datastore" />
+            <option value="$PROJECT_DIR$/mod6room" />
+            <option value="$PROJECT_DIR$/mod6sqlite" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -9,10 +9,11 @@ import androidx.datastore.preferences.preferencesDataStore
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
+
 class UserPreferencesRepository(private val context: Context) {
-    private val Context.dataStore by preferencesDataStore(name = "user_preferences")
     //Clé Preference Background Color
     private val KEY_BG_COLOR_SELECTED = intPreferencesKey("key_bg_color_selected")
+    private val Context.dataStore by preferencesDataStore(name = "user_preferences")
 
 
     //enregistrer le type de couleur de fond
