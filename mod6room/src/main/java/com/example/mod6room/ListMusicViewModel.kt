@@ -41,9 +41,7 @@ class ListMusicViewModel(private val musicDao: MusicDao) : ViewModel() {
                 modelClass: Class<T>,
                 extras: CreationExtras
             ): T {
-                val application =
-
-                    checkNotNull(extras[ViewModelProvider.AndroidViewModelFactory.APPLICATION_KEY])
+                val application = checkNotNull(extras[ViewModelProvider.AndroidViewModelFactory.APPLICATION_KEY])
                 return ListMusicViewModel(
                     AppDatabase.getInstance(application.applicationContext).musicDao(),
                 ) as T

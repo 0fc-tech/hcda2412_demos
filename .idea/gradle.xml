@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/mod6datastore" />
             <option value="$PROJECT_DIR$/mod6room" />
             <option value="$PROJECT_DIR$/mod6sqlite" />
+            <option value="$PROJECT_DIR$/mod7apirest" />
           </set>
         </option>
       </GradleProjectSettings>
